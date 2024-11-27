@@ -1,8 +1,8 @@
 body {
 
-    color: pink;
+    color: red;
 
-    background: red;
+    background: pink;
 
     margin: 10px;
 
@@ -118,13 +118,13 @@ p {
 
 }body {
 
-    color: white;
+    color: red;
 
-    background: black;
+    background: pink;
 
     margin: 0px;
 
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Arial", sans-serif;
 
     margin-bottom: 100px;
 
